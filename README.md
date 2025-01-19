@@ -1,16 +1,43 @@
 ## Hi there 👋
 
 <!--
-**NHL-Michel/NHL-Michel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Jantje Twee
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a **Software Engineer** specializing in **Cybersecurity** and currently working on exciting projects related to **maritime cybersecurity** and **pentesting**. I also enjoy exploring modern web development, containerization, and automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Tech Stack**
+
+### Languages:
+- JavaScript, Python, Bash, C#
+- HTML, CSS, SQL
+
+### Tools & Frameworks:
+- Docker, Kubernetes
+- MongoDB, PostgreSQL
+- HTMX, Highlight.js, Wiki.js, DokuWiki
+
+### Cybersecurity:
+- Nmap, AutoRecon, Bloodhound
+- Impacket, Hashcat, Responder
+
+---
+
+## 🚀 **Current Projects**
+- **Maritime Cybersecurity Research**: Exploring communication protocols, risks, and mitigation strategies in maritime systems.
+- **Virtualized CTF Environments**: Developing challenges with Windows Domain Controller attacks and web app pentesting based on the **OWASP Top 10**.
+- **Firefox Plugin Development**: Building tools for ethical hacking and data obfuscation.
+
+---
+
+## 📈 **GitHub Stats**
+![Jantje Twee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 💡 **Goals for 2025**
+- Achieve **OSCP Certification** 🏆
+- Publish a comprehensive guide on **pentesting in maritime systems** 📖
+- Contribut
