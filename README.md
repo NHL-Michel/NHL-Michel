@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there! 👋 I'm Jantje Twee
+## Hi
 
 Welcome to my GitHub profile! I'm a **Software Engineer** specializing in **Cybersecurity** and currently working on exciting projects related to **maritime cybersecurity** and **pentesting**. I also enjoy exploring modern web development, containerization, and automation tools.
 
